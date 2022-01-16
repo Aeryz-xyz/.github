@@ -1,4 +1,4 @@
-[![Real Earth](https://github.com/Aeryz-xyz/.github/raw/main/assets/real-earth.gif)]
+<img align="center" alt="Earth Proof" src="https://github.com/Aeryz-xyz/.github/raw/main/assets/real-earth.gif"></img>
 <p>
   <h1 align="center"><b>Aeryz</b></h1>
 </p>
