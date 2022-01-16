@@ -1,4 +1,6 @@
-<img align="center" alt="Earth Proof" src="https://github.com/Aeryz-xyz/.github/raw/main/assets/real-earth.gif"></img>
+<div align="center">
+    <img alt="Earth Proof" src="https://github.com/Aeryz-xyz/.github/raw/main/assets/real-earth.gif"></img>
+<div>
 <p>
   <h1 align="center"><b>Aeryz</b></h1>
 </p>
